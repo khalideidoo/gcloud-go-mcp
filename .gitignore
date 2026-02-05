@@ -8,6 +8,10 @@
 *.so
 *.dylib
 
+# Project binaries
+/bin/
+/gcloud-go-mcp
+
 # Test binary, built with `go test -c`
 *.test
 
